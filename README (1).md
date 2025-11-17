@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Quazi shoaib </h1>
+<h1 align="center">Hey Everyone 👋, I'm Quazi Shoaib </h1>
 
 <div align="center">
   <img src="https://github.com/jaiswaladi246/Quazishoaib/blob/main/" alt="Quazi Shoaib Banner">
